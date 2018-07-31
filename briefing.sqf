@@ -19,6 +19,14 @@ player createDiarySubject ["credits", "Credits"];
 
 player createDiaryRecord ["changelog",
 [
+"v1.4c-A7v0.1",
+"
+<br/>[Added] Fork by A7250AG
+"
+]];
+
+player createDiaryRecord ["changelog",
+[
 "v1.4c",
 "
 <br/>[Added] Tanks DLC
@@ -480,6 +488,7 @@ player createDiaryRecord ["credits",
 [
 "Credits",
 "
+<br/><font size='16' color='#BBBBBB'>Modified by A7250AG</font>
 <br/><font size='16' color='#BBBBBB'>Developed by A3Wasteland.com:</font>
 <br/>	* AgentRev (TeamPlayerGaming)
 <br/>	* JoSchaap (GoT/Tweakers.net)
