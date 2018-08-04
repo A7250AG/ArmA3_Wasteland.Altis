@@ -818,7 +818,7 @@ allStoreGear = compileFinal str (call headArray + call uniformArray + call vestA
 
 genObjectsArray = compileFinal str
 [
-	["Camo Net", "CamoNet_INDP_open_F", 200, "object", "HIDDEN"], // unlisted, only for object saving
+	["Camo Net", "CamoNet_INDP_open_F", 200, "object"], // unlisted, only for object saving
 
 	["Pier Ladder", "Land_PierLadder_F", 250, "object"],
 	["Ammo Cache", "Box_FIA_Support_F", 250, "ammocrate"],
@@ -1137,25 +1137,25 @@ colorsArray = compileFinal str
 			["AAF Green", _texDir + "aaf.paa"], // #(argb,8,8,3)color(0.546,0.59,0.363,0.2)
 			["Bloodshot", _texDir + "bloodshot.paa"],
 			["Carbon", _texDir + "carbon.paa"],
-			["Confederate", _texDir + "confederate.paa"],
+			//["Confederate", _texDir + "confederate.paa"],
 			["Denim", _texDir + "denim.paa"],
 			["Digital", _texDir + "digi.paa"],
 			["Digital Black", _texDir + "digi_black.paa"],
 			["Digital Desert", _texDir + "digi_desert.paa"],
 			["Digital Woodland", _texDir + "digi_wood.paa"],
-			["Doritos", _texDir + "doritos.paa"],
+			//["Doritos", _texDir + "doritos.paa"],
 			["Drylands", _texDir + "drylands.paa"],
-			["Hello Kitty", _texDir + "hellokitty.paa"],
+			//["Hello Kitty", _texDir + "hellokitty.paa"],
 			["Hex", _texDir + "hex.paa"],
-			["Hippie", _texDir + "hippie.paa"],
-			["ISIS", _texDir + "isis.paa"],
+			//["Hippie", _texDir + "hippie.paa"],
+			//["ISIS", _texDir + "isis.paa"],
 			["Leopard", _texDir + "leopard.paa"],
-			["Mountain Dew", _texDir + "mtndew.paa"],
-			["'Murica", _texDir + "murica.paa"],
-			["Nazi", _texDir + "nazi.paa"],
+			//["Mountain Dew", _texDir + "mtndew.paa"],
+			//["'Murica", _texDir + "murica.paa"],
+			//["Nazi", _texDir + "nazi.paa"],
 			["Orange Camo", _texDir + "camo_orange.paa"],
 			["Pink Camo", _texDir + "camo_pink.paa"],
-			["Pride", _texDir + "pride.paa"],
+			//["Pride", _texDir + "pride.paa"],
 			["Psych", _texDir + "psych.paa"],
 			["Red Camo", _texDir + "camo_red.paa"],
 			["Rusty", _texDir + "rusty.paa"],
@@ -1166,10 +1166,10 @@ colorsArray = compileFinal str
 			["Stripes 3", _texDir + "stripes3.paa"],
 			["Swamp", _texDir + "swamp.paa"],
 			["Tiger", _texDir + "tiger.paa"],
-			["Trippy", _texDir + "rainbow.paa"],
-			["Union Jack", _texDir + "unionjack.paa"],
+			//["Trippy", _texDir + "rainbow.paa"],
+			//["Union Jack", _texDir + "unionjack.paa"],
 			["Urban", _texDir + "urban.paa"],
-			["Weed", _texDir + "weed.paa"],
+			//["Weed", _texDir + "weed.paa"],
 			["Woodland", _texDir + "woodland.paa"],
 			["Woodland Dark", _texDir + "wooddark.paa"],
 			["Woodland Tiger", _texDir + "woodtiger.paa"]

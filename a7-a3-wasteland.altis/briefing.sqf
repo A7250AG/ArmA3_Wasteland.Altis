@@ -22,6 +22,9 @@ player createDiaryRecord ["changelog",
 "v1.4c-A7v0.1",
 "
 <br/>[Added] Fork by A7250AG
+<br/>[Added] Server rules
+<br/>[Changed] Normal camo only.
+<br/>[Changed] Random item and loot spawns.
 "
 ]];
 
